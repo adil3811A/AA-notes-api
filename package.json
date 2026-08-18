@@ -1,0 +1,20 @@
+{
+  "name": "aa-notes-api",
+  "version": "1.0.0",
+  "description": "this backend of AA notes ",
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "Adil Ansari",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
